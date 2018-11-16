@@ -1,0 +1,26 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  -webkit-text-decoration: red;
+          text-decoration: red;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+button {
+  background-color: #f44336;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=estilos.css.map */
